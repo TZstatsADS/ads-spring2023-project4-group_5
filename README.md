@@ -12,10 +12,10 @@ Term: Spring 2023
 	+ Xiaoxue Ren	xr2159@columbia.edu
 	+ Mingze Xu	mx2269@columbia.edu
 	+ Yiming Zhu	yz4336@columbia.edu
-+ Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: The project is about building a comprehensive introduction to image classification using CNNs and demonstrates how to build and evaluate a model using the Fashion-MNIST dataset. The project uses the Fashion-MNIST dataset, which consists of 60,000 training images and 10,000 test images of 10 different types of clothing items. In this project, we built a convolutional neural network (CNN) to classify these images. Then we evaluated each models on the test set, and its performance is analyzed using various metrics such as accuracy, confusion matrix, and classification report. We also includes additional sections for experimenting with different model architectures and hyperparameters, as well as visualizing some of the misclassified images to gain insights into potential areas for improvement. 
 	
 
-**Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
+**Contribution statement**: [default] Weijie Xia, Mingzi Xu, Sherry Ren contributed to the A2. Jiahao Wei, Luke Arceneaux, Yiming Zhu contributed to the A6. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
