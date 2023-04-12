@@ -13,7 +13,7 @@ Term: Spring 2023
 	+ Mingze Xu	mx2269@columbia.edu
 	+ Yiming Zhu	yz4336@columbia.edu
 	+ Xia, Weijie   wx2281@columbia.edu
-+ Project summary: The project is about building a comprehensive introduction to image classification using CNNs and demonstrates how to build and evaluate a model using the Fashion-MNIST dataset. The project uses the Company Analysis dataset. In this project, we firstly did some data wrangling and then built a SVM model and a logistic model. Nextly, we set fairness constriants and evaluated each models on the test set, and its performance is analyzed using various metrics such as accuracy, confusion matrix.
++ Project summary: The project observes fairness in classification, particularly on the issue of bias for Caucasions vs. African Americans in predicting the likelihood of recidivism in criminal defendants (data found in the COMPAS dataset). Our goal is to evaluate methods for improving fairness of models using different metrics of fairness. We observe 4 methods originating from 2 papers. The dataset is preprocessed and split into training, validation, and testing sets, and a logistic regression model is trained to predict recidivism. We individually apply the methods through this process and evaluate them. This is done by finding the calibration difference between the predicted outcomes for Caucasians and African Americans to assess fairness in addition to their p-rule's. The code and dataset are available on GitHub, and the project is part of ongoing research in fair classification.
 	
 
 **Contribution statement**: 
