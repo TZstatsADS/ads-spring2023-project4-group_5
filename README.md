@@ -5,13 +5,14 @@
 Term: Spring 2023
 
 + Team #5
-+ Projec title: Lorem ipsum dolor sit amet
++ Project title: Machine Learning Fairness
 + Team members
 	+ Luke Arceneaux	lpa2114@columbia.edu
 	+ Jiahao Wei	jw4312@columbia.edu
 	+ Xiaoxue Ren	xr2159@columbia.edu
 	+ Mingze Xu	mx2269@columbia.edu
 	+ Yiming Zhu	yz4336@columbia.edu
+	+ Xia, Weijie   wx2281@columbia.edu
 + Project summary: The project is about building a comprehensive introduction to image classification using CNNs and demonstrates how to build and evaluate a model using the Fashion-MNIST dataset. The project uses the Company Analysis dataset. In this project, we firstly did some data wrangling and then built a SVM model and a logistic model. Nextly, we set fairness constriants and evaluated each models on the test set, and its performance is analyzed using various metrics such as accuracy, confusion matrix.
 	
 
