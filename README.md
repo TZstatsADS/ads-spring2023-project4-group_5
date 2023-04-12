@@ -17,7 +17,7 @@ Term: Spring 2023
 	
 
 **Contribution statement**: 
-All six of us contributed equally in the project. We worked together on feature selection, data cleaning, and data wrangling. After finalize the cleaned data, we split the group into 2 mini-groups. Weijie Xia, Mingzi Xu, Sherry Ren mainly worked on A2 paper and its algorithm, while Jiahao Wei, Luke Arceneaux, Yiming Zhu worked on A6. After building the models, we always meet on ZOOM to discuss the algorithm and code. All team members approve our work presented in this GitHub repository including this contributions statement. 
+All six of us contributed equally in the project. We worked together on feature selection, data cleaning, and data wrangling. After finalize the cleaned data, we split the group into 2 mini-groups. Weijie Xia, Mingzi Xu, Xiaoxue Ren mainly worked on A2 paper and its algorithm, while Jiahao Wei, Luke Arceneaux, Yiming Zhu worked on A6. After building the models, we always meet on ZOOM to discuss the algorithm and code. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
